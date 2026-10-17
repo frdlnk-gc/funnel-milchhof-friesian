@@ -1,0 +1,45 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-laufstall.jpg",
+  "primary": "#0050A0",
+  "panel": "top",
+  "panel_hoehe": 0.52,
+  "panel_bg": "#0050A0",
+  "kicker": "WIR SUCHEN IN RUKIETEN",
+  "headline": [
+   "Herdenmanager",
+   "(m/w/d)"
+  ],
+  "subline": "Rund 1.500 Milchkühe – unbefristet, mit Jahresprämie.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.6
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-kuh-portrait.jpg",
+  "primary": "#0050A0",
+  "panel": "bottom",
+  "panel_hoehe": 0.58,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN RUKIETEN",
+  "headline": [
+   "Herdenmanager (m/w/d)"
+  ],
+  "checkliste": [
+   "Unbefristeter Arbeitsvertrag",
+   "Jahresprämie",
+   "Hilfe bei der Wohnungssuche"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.5,
+   0.45
+  ]
+ }
+]

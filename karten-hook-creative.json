@@ -1,0 +1,21 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-kuehe-stroh.jpg",
+ "fokus": [
+  0.4,
+  0.5
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#0050A0",
+ "headline": [
+  "HERDEN-",
+  "MANAGER"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Rukieten · Güstrow · Rostock & Umgebung"
+}

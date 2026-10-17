@@ -1,0 +1,36 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-kuh-portrait.jpg",
+  "img/foto-hd-laufstall.jpg",
+  "img/foto-hd-hof-luftbild.jpg"
+ ],
+ "fokus": [
+  [
+   0.5,
+   0.55
+  ],
+  [
+   0.5,
+   0.6
+  ],
+  [
+   0.5,
+   0.5
+  ]
+ ],
+ "primary": "#0050A0",
+ "ink": "#1B1B1B",
+ "headline": [
+  "Herden-",
+  "manager"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Rukieten · Schwaan · Güstrow",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}
