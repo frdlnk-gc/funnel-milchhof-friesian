@@ -1,0 +1,118 @@
+{
+  "firma": "Milchhof Friesian",
+  "stelle": "Herdenmanager (m/w/d)",
+  "ort": "Rukieten",
+  "plz": "18258",
+  "branche": "landwirtschaft",
+  "farbe_primary": "#0050A0",
+  "farbe_secondary": "#D0302A",
+  "region_badge": "Rukieten & Umgebung",
+  "benefit_top": "Unbefristet & Jahresprämie",
+  "benefits": [
+    "Unbefristeter Arbeitsvertrag",
+    "Jahresprämie",
+    "Kostenübernahme für berufliche Zertifizierungen",
+    "Hilfe bei der Wohnungssuche",
+    "Firmenhandy",
+    "Unfallversicherung",
+    "Betriebsausflüge",
+    "Freundliches Arbeitsklima"
+  ],
+  "aufgaben": [
+    "Du übernimmst Arbeitsplanung und Arbeitsorganisation im Herdenmanagement-Team",
+    "Du kontrollierst die Fütterung und arbeitest eng mit Beratern zusammen",
+    "Du kümmerst dich um Tiergesundheit und Fruchtbarkeit",
+    "Du überwachst die Kälber- und Jungviehaufzucht"
+  ],
+  "anforderung": "Abgeschlossene Ausbildung oder Studium im Bereich Landwirtschaft und Kenntnisse in Tiergesundheit, Tierfütterung und Tierbeobachtung – Berufserfahrung ist wünschenswert. Dazu bringst du Teamfähigkeit, Verantwortungsbewusstsein und Organisationsstärke mit.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Milchvieh / Tierhaltung",
+      "icon": "🐄",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung Landwirtschaft",
+          "icon": "📘"
+        },
+        {
+          "label": "Studium Landwirtschaft",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Andere Landwirtschaft",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung Landwirtschaft",
+          "icon": "📘"
+        },
+        {
+          "label": "Studium Landwirtschaft",
+          "icon": "🎓"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🔄",
+      "qualifikationen": [
+        {
+          "label": "Studium in anderem Fach",
+          "icon": "🎓"
+        },
+        {
+          "label": "Ausbildung in anderem Beruf",
+          "icon": "📘"
+        },
+        {
+          "label": "Erfahren ohne Abschluss",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "1.500",
+        "label": "Milchkühe"
+      },
+      {
+        "zahl": "38",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2006",
+        "label": "gegründet"
+      }
+    ],
+    "text": "Familiengeführter, moderner Milchviehbetrieb in Rukieten im Landkreis Rostock mit einer Herde von rund 1.500 Milchkühen. Seit 2006 steht der Betrieb für die Verbindung von Tierwohl, moderner Technik und Teamarbeit. Bei uns dreht sich alles um die Herde – wenn du Spaß an der Arbeit mit Tieren hast und Verantwortung übernehmen willst, bist du hier genau richtig."
+  },
+  "kunde_tab": "24 Milchhof Friesian",
+  "quelle": "https://milchhof-friesian.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Rukieten"
+  },
+  "hero_bild": "img/hero-laufstall.jpg",
+  "bilder": [
+    "img/f1-kuehe-stroh.jpg",
+    "img/f2-futtertisch.jpg",
+    "img/f3-kuh-portrait.jpg",
+    "img/f4-grasernte.jpg",
+    "img/f5-hof-luftbild.jpg",
+    "img/f6-maisernte.jpg"
+  ]
+}
